@@ -1,0 +1,4 @@
+/home/bia/Desktop/proiect2/Test/build/CMakeFiles/client.exe.dir
+/home/bia/Desktop/proiect2/Test/build/CMakeFiles/server.exe.dir
+/home/bia/Desktop/proiect2/Test/build/CMakeFiles/edit_cache.dir
+/home/bia/Desktop/proiect2/Test/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/server.exe.dir/server.cpp.o"
+  "CMakeFiles/server.exe.dir/server.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/comunic/comunicare.cpp.o"
+  "CMakeFiles/server.exe.dir/src/comunic/comunicare.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/const.cpp.o"
+  "CMakeFiles/server.exe.dir/src/const.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/baze_de_date.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/baze_de_date.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/exit.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/exit.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/grup.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/grup.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/help.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/help.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/history.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/history.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/login.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/login.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/logout.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/logout.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/notificariMesaje.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/notificariMesaje.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/offlinemessage.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/offlinemessage.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/register.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/register.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/reply.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/reply.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/send.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/send.cpp.o.d"
+  "CMakeFiles/server.exe.dir/src/functii/users.cpp.o"
+  "CMakeFiles/server.exe.dir/src/functii/users.cpp.o.d"
+  "server.exe"
+  "server.exe.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/server.exe.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
